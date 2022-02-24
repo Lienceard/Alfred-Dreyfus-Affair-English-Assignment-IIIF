@@ -20,7 +20,7 @@
     "canvases" : [ {
       "@id" : "http://4eff536c-0f51-4b62-b6a8-18b6244b590a",
       "@type" : "sc:Canvas",
-      "label" : "The abasement of Staff Officer A. Dreyfus, in Le Petit journal’s Supplément illustré, in front-page.",
+      "label" : "The abasement of Staff Officer A. Dreyfus, in Le Petit journal’s Supplément illustré, on the front-page.",
       "height" : 4944,
       "width" : "3390",
       "images" : [ {
@@ -46,7 +46,7 @@
     }, {
       "@id" : "http://e828fee4-8a47-4d6b-9013-153231e4940e",
       "@type" : "sc:Canvas",
-      "label" : "Letter J’Accuse by Emile Zola, in L’Aurore, in front-page.",
+      "label" : "Letter J’Accuse by Emile Zola, in L’Aurore, on the front-page.",
       "height" : 4986,
       "width" : 3585,
       "images" : [ {
@@ -124,7 +124,7 @@
     }, {
       "@id" : "http://1117633b-7b2d-459b-a10f-98ba79afad31",
       "@type" : "sc:Canvas",
-      "label" : "The front page of L’Action Française.",
+      "label" : "The front-page of L’Action Française.",
       "height" : 2481,
       "width" : 1749,
       "images" : [ {
