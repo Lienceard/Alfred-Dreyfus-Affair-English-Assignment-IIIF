@@ -1,0 +1,185 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest3.json",
+  "@type" : "sc:Manifest",
+  "label" : "The Alfred Dreyfus Affair and the golden age of the press.",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A historical fresco, composed of newspaper articles from the late 19th century, about media coverage and journalistic engagement during the A. Dreyfus affair.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Gallica - Bibliothèque nationale de France ",
+  "sequences" : [ {
+    "@id" : "http://43d591e9-f716-4ba5-a111-ab975f94e85b",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://4eff536c-0f51-4b62-b6a8-18b6244b590a",
+      "@type" : "sc:Canvas",
+      "label" : "The abasement of Staff Officer A. Dreyfus, in Le Petit journal’s Supplément illustré, on the front-page.",
+      "height" : 4944,
+      "width" : "3390",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a3f0f48a-d3f8-41c2-8e48-2b70b9c4f96b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k7161044/f1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k7161044/f1",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 4944,
+          "width" : 3390
+        },
+        "on" : "http://4eff536c-0f51-4b62-b6a8-18b6244b590a"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/annotations/4ed29feaddb489220328fccba7e80004.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations the abasement of Staff Officer A. Dreyfus"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e828fee4-8a47-4d6b-9013-153231e4940e",
+      "@type" : "sc:Canvas",
+      "label" : "Letter J’Accuse by Emile Zola, in L’Aurore, on the front-page.",
+      "height" : 4986,
+      "width" : 3585,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cbabca91-0147-4ef9-8c40-9eb67bf57745",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k701453s/f1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k701453s/f1",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 4986,
+          "width" : 3585
+        },
+        "on" : "http://e828fee4-8a47-4d6b-9013-153231e4940e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://01383128-cb7b-4462-9ad4-2aa557dabc79",
+      "@type" : "sc:Canvas",
+      "label" : "Caricature of Un dîner en famille by Caran d’Ache, in Le Figaro.",
+      "height" : 7059,
+      "width" : 5106,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c3b071a0-9212-4af3-9501-a3dba420fdcd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2842896/f3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2842896/f3",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 7059,
+          "width" : 5106
+        },
+        "on" : "http://01383128-cb7b-4462-9ad4-2aa557dabc79"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f1b43af9-f227-4205-b69c-624da6925f07",
+      "@type" : "sc:Canvas",
+      "label" : "Drawing of Devil’s Island, the penal colony of Cayenne, by Jean Hess, in Le Monde Illustré.",
+      "height" : 6409,
+      "width" : 4787,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d0991b3b-9f9f-46a5-b6bb-fa9e6fc9a91a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k64580498/f11/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k64580498/f11",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 6409,
+          "width" : 4787
+        },
+        "on" : "http://f1b43af9-f227-4205-b69c-624da6925f07"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1117633b-7b2d-459b-a10f-98ba79afad31",
+      "@type" : "sc:Canvas",
+      "label" : "The front-page of L’Action Française.",
+      "height" : 2481,
+      "width" : 1749,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d16cd278-c9e2-45d3-83a4-6d74bc994af4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k442213d/f1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k442213d/f1",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 2481,
+          "width" : 1749
+        },
+        "on" : "http://1117633b-7b2d-459b-a10f-98ba79afad31"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://fba41d3d-786b-4a09-b760-e61b7fb17345",
+      "@type" : "sc:Canvas",
+      "label" : "Notre Jeunesse by Charles Peguy, in Les Cahiers de la Quinzaine.",
+      "height" : 2935,
+      "width" : 1834,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://84e5ca9b-f14e-456d-b8b9-9a7102028869",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k65770401/f11/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k65770401/f11",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 2935,
+          "width" : 1834
+        },
+        "on" : "http://fba41d3d-786b-4a09-b760-e61b7fb17345"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "viewingDirection" : "left-to-right"
+}
