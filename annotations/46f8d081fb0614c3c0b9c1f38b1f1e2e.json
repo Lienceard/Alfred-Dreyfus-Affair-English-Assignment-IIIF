@@ -1,0 +1,174 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 0.85cm; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">Founded in 1898 by <a href=\"https://en.wikipedia.org/wiki/Henri_Vaugeois\" target=\"_blank\" rel=\"noopener\">Henri Vaugeois and <a href=\"https://en.wikipedia.org/wiki/Maurice_Pujo\" target=\"_blank\" rel=\"noopener\">Maurice Pujo, <a href=\"https://en.wikipedia.org/wiki/Action_Fran%C3%A7aise\" target=\"_blank\" rel=\"noopener\"><span style=\"text-decoration: none;\">L&rsquo;Action Fran&ccedil;aise<span style=\"text-decoration: none;\"> was a school of thought following \"anti-dreyfusard\" and republican nationalism. It strongly participated in the rise of nationalism before and especially after the <a href=\"https://en.wikipedia.org/wiki/World_War_I\" target=\"_blank\" rel=\"noopener\">First World War. The movement was dissolved after the <a href=\"https://en.wikipedia.org/wiki/Liberation_of_France\" target=\"_blank\" rel=\"noopener\">Liberation because of its collaboration with the <a href=\"https://en.wikipedia.org/wiki/Vichy_France\" target=\"_blank\" rel=\"noopener\">Vichy Regime.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 0.85cm; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">Founded in 1898 by <a href=\"https://en.wikipedia.org/wiki/Henri_Vaugeois\" target=\"_blank\" rel=\"noopener\">Henri Vaugeois</a> and <a href=\"https://en.wikipedia.org/wiki/Maurice_Pujo\" target=\"_blank\" rel=\"noopener\">Maurice Pujo</a>, </span><a href=\"https://en.wikipedia.org/wiki/Action_Fran%C3%A7aise\" target=\"_blank\" rel=\"noopener\"><em><span style=\"text-decoration: none;\">L&rsquo;Action Fran&ccedil;aise</span></em></a><span style=\"text-decoration: none;\"> was a school of thought following \"anti-dreyfusard\" and republican nationalism. It strongly participated in the rise of nationalism before and especially after the <a href=\"https://en.wikipedia.org/wiki/World_War_I\" target=\"_blank\" rel=\"noopener\">First World War</a>. The movement was dissolved after the <a href=\"https://en.wikipedia.org/wiki/Liberation_of_France\" target=\"_blank\" rel=\"noopener\">Liberation</a> because of its collaboration with the <a href=\"https://en.wikipedia.org/wiki/Vichy_France\" target=\"_blank\" rel=\"noopener\">Vichy Regime</a>.</span></span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "L'Action Française",
+      "@type" : "oa:Tag",
+      "chars" : "L'Action Française"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "press",
+      "@type" : "oa:Tag",
+      "chars" : "press"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "anti-dreyfusard",
+      "@type" : "oa:Tag",
+      "chars" : "anti-dreyfusard"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T17:08:52",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645722532011",
+    "dcterms:modified" : "2022-02-24T18:45:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=239,163,1231,434"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1470.0275,597.53438h-615.5943v0h-615.5943v-217.12328v-217.12328h615.5943h615.5943v217.12328z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.51765,0,0.51765],&quot;editable&quot;:true}\" id=\"rectangle_7a379ed2-d2d4-482d-b579-a2b2a73fd886\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#840084\" stroke-width=\"29.24558\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1117633b-7b2d-459b-a10f-98ba79afad31"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 0.85cm; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">The magazine, directed by Charles Maurras, was the official body to disseminate the ideas of <span style=\"text-decoration: none;\">L&rsquo;Action Fran&ccedil;aise.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 0.85cm; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">The magazine, directed by Charles Maurras, was the official body to disseminate the ideas of </span><em><span style=\"text-decoration: none;\">L&rsquo;Action Fran&ccedil;aise</span></em>.</span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "press",
+      "@type" : "oa:Tag",
+      "chars" : "press"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "L'Action Française",
+      "@type" : "oa:Tag",
+      "chars" : "L'Action Française"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T17:23:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645723384219",
+    "dcterms:modified" : "2022-02-24T18:52:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=298,1943,265,56"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M297.76719,1942.83104h132.60511v0h132.60511v27.80845v27.80845h-132.60511h-132.60511v-27.80845z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.51765,0,0.51765],&quot;editable&quot;:true}\" id=\"rectangle_68b42654-8846-43b5-b7ff-6c484be2524e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#840084\" stroke-width=\"29.24558\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1117633b-7b2d-459b-a10f-98ba79afad31"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 0.85cm; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\"><a href=\"https://en.wikipedia.org/wiki/Auguste_Mercier\" target=\"_blank\" rel=\"noopener\">General Mercier was Minister of War when the A. Dreyfus Affair occurred. <span style=\"text-decoration: none;\">He helped to rig the trial, brought false documents to the Council of War. Until A. Dreyfus was released, he kept on defending the Captains&rsquo; guilt.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 0.85cm; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\"><a href=\"https://en.wikipedia.org/wiki/Auguste_Mercier\" target=\"_blank\" rel=\"noopener\">General Mercier</a> was Minister of War when the A. Dreyfus Affair occurred. </span><span style=\"text-decoration: none;\">He helped to rig the trial, brought false documents to the Council of War. Until A. Dreyfus was released, he kept on defending the Captains&rsquo; guilt.</span></span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "biography",
+      "@type" : "oa:Tag",
+      "chars" : "biography"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mercier",
+      "@type" : "oa:Tag",
+      "chars" : "Mercier"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "anti-dreyfusard",
+      "@type" : "oa:Tag",
+      "chars" : "anti-dreyfusard"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T17:20:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645723201821",
+    "dcterms:modified" : "2022-02-24T17:23:37",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=919,902,443,53"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M919.23576,902.17583h221.56041v0h221.56041v26.58988v26.58988h-221.56041h-221.56041v-26.58988z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_97b755e8-833d-407f-b088-6572aec533b0\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"15.40994\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1117633b-7b2d-459b-a10f-98ba79afad31"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a style=\"color: #000000;\" href=\"https://en.wikipedia.org/wiki/Charles_Maurras\" target=\"_blank\" rel=\"noopener\">Charles Maurras<span style=\"color: #000000;\"> (1868-1952)\n<span style=\"color: #000000;\">He was a member of <em style=\"color: #000000;\">L&rsquo;Action Fran&ccedil;aise<span style=\"color: #000000;\">. He advocated anti-semitism, anti-parliamentary system, the return to a hereditary Monarchy and promoted xenophobic ideas. His collaboration with the Vichy Regime led him his arrest and degradation at the Liberation.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a style=\"color: #000000;\" href=\"https://en.wikipedia.org/wiki/Charles_Maurras\" target=\"_blank\" rel=\"noopener\">Charles Maurras</a><span style=\"color: #000000;\"> (1868-1952)</span></p>\n<p><span style=\"color: #000000;\">He was a member of </span><em style=\"color: #000000;\">L&rsquo;Action Fran&ccedil;aise</em><span style=\"color: #000000;\">. He advocated anti-semitism, anti-parliamentary system, the return to a hereditary Monarchy and promoted xenophobic ideas. His collaboration with the Vichy Regime led him his arrest and degradation at the Liberation.</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "anti-dreyfusardCharlesMaurrasbiographyL'ActionFrançaise",
+      "@type" : "oa:Tag",
+      "chars" : "anti-dreyfusardCharlesMaurrasbiographyL'ActionFrançaise"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T17:12:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645722736960",
+    "dcterms:modified" : "2022-02-25T13:13:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=919,1265,314,60"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M918.8055,1265.30845h156.97642v0h156.97642v30.24558v30.24558h-156.97642h-156.97642v-30.24558z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_ef2c85f4-7f62-4009-93ab-125d46a705d6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"29.24558\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1117633b-7b2d-459b-a10f-98ba79afad31"
+    } ]
+  } ],
+  "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/annotations/46f8d081fb0614c3c0b9c1f38b1f1e2e.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
