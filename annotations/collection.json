@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/annotations/4ed29feaddb489220328fccba7e80004.json" ],
+  "otherContent" : [ "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/annotations/4ed29feaddb489220328fccba7e80004.json", "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/annotations/483d3551a8256af8e34958d6edc75a93.json" ],
   "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/annotations/collection.json",
   "label" : "All annotations loaded in Lienceard/Alfred-Dreyfus-Affair-English-Assignment-IIIF project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
