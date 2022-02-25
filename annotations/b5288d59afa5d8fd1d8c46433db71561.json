@@ -1,0 +1,145 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 0.85cm; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">Charles P&eacute;guy founded his journal the <a href=\"https://fr.wikipedia.org/wiki/Cahiers_de_la_Quinzaine\" target=\"_blank\" rel=\"noopener\">Cahier de la Quinzaine in which he published his writings and those of the prominent authors of his time. ",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 0.85cm; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">Charles P&eacute;guy founded his journal the <a href=\"https://fr.wikipedia.org/wiki/Cahiers_de_la_Quinzaine\" target=\"_blank\" rel=\"noopener\"><em>Cahier de la Quinzaine</em></a> in which he published his writings and those of the prominent authors of his time. </span></span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "press",
+      "@type" : "oa:Tag",
+      "chars" : "press"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cahiers de la Quinzaine",
+      "@type" : "oa:Tag",
+      "chars" : "Cahiers de la Quinzaine"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Charles Péguy",
+      "@type" : "oa:Tag",
+      "chars" : "Charles Péguy"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "dreyfusard",
+      "@type" : "oa:Tag",
+      "chars" : "dreyfusard"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T17:26:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645723616650",
+    "dcterms:modified" : "2022-02-25T13:13:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=318,2276,1080,117"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M318.19745,2275.65226h540.14047v0h540.14047v58.66208v58.66208h-540.14047h-540.14047v-58.66208z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.51765,0,0.51765],&quot;editable&quot;:true}\" id=\"rectangle_d171c45f-ef2c-41f9-b54a-efaa18245872\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#840084\" stroke-width=\"34.59725\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fba41d3d-786b-4a09-b760-e61b7fb17345"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 0.85cm; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">In <a href=\"https://fr.wikipedia.org/wiki/Notre_Jeunesse_(P%C3%A9guy)\" target=\"_blank\" rel=\"noopener\">Notre Jeunesse, Charles P&eacute;guy reviewed France from the 1789 Revolution to the A. Dreyfus Affair. He went back to this affair and the political depravation of France and of Republic. One of his famous quotations is : &ldquo;Everything begins in mysticism and ends in politics&rdquo;. According to him, the Dreyfus cas was a question of morality and humanity and not of politics, as <a href=\"https://en.wikipedia.org/wiki/Jean_Jaur%C3%A8s\" target=\"_blank\" rel=\"noopener\">Jean Jaur&egrave;s thought.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 0.85cm; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">In <a href=\"https://fr.wikipedia.org/wiki/Notre_Jeunesse_(P%C3%A9guy)\" target=\"_blank\" rel=\"noopener\">Notre Jeunesse</a>, Charles P&eacute;guy reviewed France from the 1789 Revolution to the A. Dreyfus Affair. He went back to this affair and the political depravation of France and of Republic. One of his famous quotations is : &ldquo;Everything begins in mysticism and ends in politics&rdquo;. According to him, the Dreyfus cas was a question of morality and humanity and not of politics, as <a href=\"https://en.wikipedia.org/wiki/Jean_Jaur%C3%A8s\" target=\"_blank\" rel=\"noopener\">Jean Jaur&egrave;s</a> thought.</span></span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Notre Jeunesse",
+      "@type" : "oa:Tag",
+      "chars" : "Notre Jeunesse"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "book",
+      "@type" : "oa:Tag",
+      "chars" : "book"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Charles Péguy",
+      "@type" : "oa:Tag",
+      "chars" : "Charles Péguy"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T17:29:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645723776344",
+    "dcterms:modified" : "2022-02-25T13:13:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=99,1105,1565,285"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M98.90864,1105.11198h782.49411v0h782.49411v142.2721v142.2721h-782.49411h-782.49411v-142.2721z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_af9e1a7a-37c8-49b5-984a-1d555fe34696\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"34.59725\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fba41d3d-786b-4a09-b760-e61b7fb17345"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-weight: normal; line-height: 100%; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><a href=\"https://en.wikipedia.org/wiki/Charles_P%C3%A9guy\" target=\"_blank\" rel=\"noopener\">Charles P&eacute;guy (1873-1914) \n<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-weight: normal; line-height: 100%; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">He was one of the Captain Dreyfus&rsquo; ardent defenders. He was a socialist, anti-parlementary and catholic writer, very religious and anti-clerical at the same time. <span style=\"text-decoration: none;\">He was impregnated with republican mysticism.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-weight: normal; line-height: 100%; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><a href=\"https://en.wikipedia.org/wiki/Charles_P%C3%A9guy\" target=\"_blank\" rel=\"noopener\">Charles P&eacute;guy</a> (1873-1914) </span></p>\n<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-weight: normal; line-height: 100%; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">He was one of the Captain Dreyfus&rsquo; ardent defenders. He was a socialist, anti-parlementary and catholic writer, very religious and anti-clerical at the same time. </span><span style=\"text-decoration: none;\">He was impregnated with republican mysticism.</span></span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Charles Péguy",
+      "@type" : "oa:Tag",
+      "chars" : "Charles Péguy"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "biography",
+      "@type" : "oa:Tag",
+      "chars" : "biography"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "dreyfusard",
+      "@type" : "oa:Tag",
+      "chars" : "dreyfusard"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T17:27:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645723676810",
+    "dcterms:modified" : "2022-02-25T13:12:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=581,534,599,94"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M580.55992,534.25737h299.40127v0h299.40127v47.12967v47.12967h-299.40127h-299.40127v-47.12967z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_040f887b-0eeb-420b-a466-b356ee81f3bd\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"34.59725\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fba41d3d-786b-4a09-b760-e61b7fb17345"
+    } ]
+  } ],
+  "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/annotations/b5288d59afa5d8fd1d8c46433db71561.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
