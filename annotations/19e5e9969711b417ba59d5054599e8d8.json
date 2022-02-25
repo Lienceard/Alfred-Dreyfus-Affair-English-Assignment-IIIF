@@ -1,0 +1,219 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"ql-align-justify\"><span style=\"color: #000000;\">The caricaturist chose to reconcile two drawings of a family reunion, respectively before and after their debate about the Dreyfus Affair. It illustrates the deep scission of France, not only in the military, social, political and religious spheres, but also in the private sphere.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"ql-align-justify\"><span style=\"color: #000000;\">The caricaturist chose to reconcile two drawings of a family reunion, respectively before and after their debate about the Dreyfus Affair. It illustrates the deep scission of France, not only in the military, social, political and religious spheres, but also in the private sphere.</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "caricature",
+      "@type" : "oa:Tag",
+      "chars" : "caricature"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Caran d'Ache",
+      "@type" : "oa:Tag",
+      "chars" : "Caran d'Ache"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T16:27:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645720054726",
+    "dcterms:modified" : "2022-02-25T14:15:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1351,248,1694,168"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1351.38605,247.63065h846.97053v0h846.97053v84.21022v84.21022h-846.97053h-846.97053v-84.21022z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_05929c8a-8154-4cc5-a354-d910afdd883e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"83.21022\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://01383128-cb7b-4462-9ad4-2aa557dabc79"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 0.85cm; text-decoration: none;\" align=\"justify\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">The family was the symbol of union. The various members were gathered to share a meal.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 0.85cm; text-decoration: none;\" align=\"justify\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">The family was the symbol of union. The various members were gathered to share a meal.</span></span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "family",
+      "@type" : "oa:Tag",
+      "chars" : "family"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "caricature",
+      "@type" : "oa:Tag",
+      "chars" : "caricature"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T16:31:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645720304448",
+    "dcterms:modified" : "2022-02-24T18:35:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1022,628,3937,2289"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1022.38817,628.14304h1968.5583v0h1968.5583v1144.57107v1144.57107h-1968.5583h-1968.5583v-1144.57107z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_0de4249b-28af-45c8-9dc1-3372aecaf538\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"83.21022\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://01383128-cb7b-4462-9ad4-2aa557dabc79"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-size: medium;\"><a href=\"https://en.wikipedia.org/wiki/Caran_d%27Ache\" target=\"_blank\" rel=\"noopener\">Caran d&rsquo;Ache (1858-1909)\n<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 0.85cm; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">He was a French caricaturist of Russian ancestry. In 1898, he co-founded an \"anti-dreyfusard\" satirical weekly entitled<a href=\"https://fr.wikipedia.org/wiki/Psst...!\" target=\"_blank\" rel=\"noopener\"><span style=\"text-decoration: none;\"> Psst&hellip;!",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-size: medium;\"><a href=\"https://en.wikipedia.org/wiki/Caran_d%27Ache\" target=\"_blank\" rel=\"noopener\">Caran d&rsquo;Ache</a> (1858-1909)</span></span></p>\n<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 0.85cm; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">He was a French caricaturist of Russian ancestry. In 1898, he co-founded an \"anti-dreyfusard\" satirical weekly entitled</span><a href=\"https://fr.wikipedia.org/wiki/Psst...!\" target=\"_blank\" rel=\"noopener\"><em><span style=\"text-decoration: none;\"> Psst&hellip;!</span></em></a></span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Caran d'Ache",
+      "@type" : "oa:Tag",
+      "chars" : "Caran d'Ache"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "caricaturist",
+      "@type" : "oa:Tag",
+      "chars" : "caricaturist"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "anti-dreyfusard",
+      "@type" : "oa:Tag",
+      "chars" : "anti-dreyfusard"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T16:38:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645720709022",
+    "dcterms:modified" : "2022-02-24T18:39:10",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4187,514,464,94"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4187.42325,513.95462h232.02446v0h232.02446v47.20489v47.20489h-232.02446h-232.02446v-47.20489z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_1704c17a-b56f-4b10-a5ee-6565ab10d0a3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"83.21022\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://01383128-cb7b-4462-9ad4-2aa557dabc79"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 0.85cm; text-decoration: none;\" align=\"justify\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">The virulence of the debates was represented by verbal aggressions, bare-knuckle confrontations, strangulations in his own family and overthrows <span style=\"text-decoration: none;\">of the table and chairs. ",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 0.85cm; text-decoration: none;\" align=\"justify\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">The virulence of the debates was represented by verbal aggressions, bare-knuckle confrontations, strangulations in his own family and overthrows </span><span style=\"text-decoration: none;\">of the table and chairs. </span></span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "virulence",
+      "@type" : "oa:Tag",
+      "chars" : "virulence"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "debates",
+      "@type" : "oa:Tag",
+      "chars" : "debates"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "family",
+      "@type" : "oa:Tag",
+      "chars" : "family"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T16:33:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645720423484",
+    "dcterms:modified" : "2022-02-24T18:35:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1009,2954,3956,2289"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4965.2056,2953.78926h-1978.10953v0h-1978.10953v1144.57107v1144.57107h1978.10953h1978.10953v-1144.57107z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_2cc87104-699f-4497-83fe-0fac410200f5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"83.21022\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://01383128-cb7b-4462-9ad4-2aa557dabc79"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a style=\"color: #000000;\" href=\"https://en.wikipedia.org/wiki/Le_Figaro\" target=\"_blank\" rel=\"noopener\">Le Figaro <span style=\"color: #000000;\">was founded in 1826. This newspaper has a right and centre-right editorial line. The \"Dreyfusard\" movement was born in the daily&rsquo;s premises. It was hosted by Bernard Lazare, Mathieu Dreyfus, Joseph Reinach and Auguste Scheurer-Kestner.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a style=\"color: #000000;\" href=\"https://en.wikipedia.org/wiki/Le_Figaro\" target=\"_blank\" rel=\"noopener\"><em>Le Figaro </em></a><span style=\"color: #000000;\">was founded in 1826. This newspaper has a right and centre-right editorial line. The \"Dreyfusard\" movement was born in the daily&rsquo;s premises. It was hosted by Bernard Lazare, Mathieu Dreyfus, Joseph Reinach and Auguste Scheurer-Kestner.</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Le Figaro",
+      "@type" : "oa:Tag",
+      "chars" : "Le Figaro"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "press",
+      "@type" : "oa:Tag",
+      "chars" : "press"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T16:44:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645721093406",
+    "dcterms:modified" : "2022-02-25T14:15:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2143,84,380,125"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2142.65357,83.52161h189.76392v0h189.76392v62.6372v62.6372h-189.76392h-189.76392v-62.6372z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.51765,0,0.51765],&quot;editable&quot;:true}\" id=\"rectangle_09663f85-fd48-45b9-8921-ead113a08042\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#840084\" stroke-width=\"83.21022\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://01383128-cb7b-4462-9ad4-2aa557dabc79"
+    } ]
+  } ],
+  "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/annotations/19e5e9969711b417ba59d5054599e8d8.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
