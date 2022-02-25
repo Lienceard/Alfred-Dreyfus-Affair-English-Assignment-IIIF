@@ -1,0 +1,379 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%;\" align=\"justify\"><span style=\"color: #000000;\"><span style=\"text-decoration: none;\">&ldquo;<span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">Cashiering (or degradation ceremony), generally within <span style=\"text-decoration: none;\">military<span style=\"text-decoration: none;\"> forces, is a <span style=\"text-decoration: none;\">ritual <span style=\"text-decoration: none;\">dismissal of an individual from some position of responsibility for a breach of <span style=\"text-decoration: none;\">discipline<span style=\"text-decoration: none;\">.&rdquo; (<a href=\"https://en.wikipedia.org/wiki/Cashiering\" target=\"_blank\" rel=\"noopener\">Wikipedia)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%;\" align=\"justify\"><span style=\"color: #000000;\"><span style=\"text-decoration: none;\">&ldquo;</span><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">Cashiering (or degradation ceremony), generally within </span><span style=\"text-decoration: none;\">military</span><span style=\"text-decoration: none;\"> forces, is a </span><span style=\"text-decoration: none;\">ritual </span><span style=\"text-decoration: none;\">dismissal of an individual from some position of responsibility for a breach of </span><span style=\"text-decoration: none;\">discipline</span><span style=\"text-decoration: none;\">.&rdquo; (<a href=\"https://en.wikipedia.org/wiki/Cashiering\" target=\"_blank\" rel=\"noopener\">Wikipedia</a>)</span></span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "cashiering",
+      "@type" : "oa:Tag",
+      "chars" : "cashiering"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T14:02:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645711355110",
+    "dcterms:modified" : "2022-02-24T14:22:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=909,4703,622,79"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M908.80114,4702.68753h310.95782v0h310.95782v39.50408v39.50408h-310.95782h-310.95782v-39.50408z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.17647,0.45882,0.05098],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_6e8e2e15-4c6b-4ec2-9318-4c6c5379ac8f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"25.65661\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4eff536c-0f51-4b62-b6a8-18b6244b590a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%; text-decoration: none;\" align=\"justify\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\">The row of 4.000 soldiers and 20.000 civilians, as well as the school buildings, frame the degradation ceremony.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%; text-decoration: none;\" align=\"justify\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\">The row of 4.000 soldiers and 20.000 civilians, as well as the school buildings, frame the degradation ceremony.</span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "cashiering",
+      "@type" : "oa:Tag",
+      "chars" : "cashiering"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "abasement",
+      "@type" : "oa:Tag",
+      "chars" : "abasement"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "soldiers",
+      "@type" : "oa:Tag",
+      "chars" : "soldiers"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T14:18:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645712290315",
+    "dcterms:modified" : "2022-02-25T12:45:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=110,2346,2772,501"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M109.55725,2345.52386h1386.2413v0h1386.2413v250.54707v250.54707h-1386.2413h-1386.2413v-250.54707z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_8aaae343-8589-42aa-99f6-156475646bb1\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"32.3611\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4eff536c-0f51-4b62-b6a8-18b6244b590a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%;\" align=\"justify\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">The abasement of Staff Officer A. Dreyfus was theatrical. It took place in the large courtyard of the Special Military School of Saint-Cyr in Paris. <span style=\"text-decoration: none;\">On the picture, t<span style=\"text-decoration: none;\">he coloured military symbols create a chiaroscuro which reinforce<span style=\"text-decoration: none;\">s<span style=\"text-decoration: none;\"> the ceremonial aspect of <span style=\"text-decoration: none;\">the military parade. ",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%;\" align=\"justify\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"text-decoration: none;\">The abasement of Staff Officer A. Dreyfus was theatrical. It took place in the large courtyard of the Special Military School of Saint-Cyr in Paris. </span><span style=\"text-decoration: none;\">On the picture, t</span><span style=\"text-decoration: none;\">he coloured military symbols create a chiaroscuro which reinforce</span><span style=\"text-decoration: none;\">s</span><span style=\"text-decoration: none;\"> the ceremonial aspect of </span><span style=\"text-decoration: none;\">the military parade. </span></span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "abasement",
+      "@type" : "oa:Tag",
+      "chars" : "abasement"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Alfred Dreyfus",
+      "@type" : "oa:Tag",
+      "chars" : "Alfred Dreyfus"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T14:06:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645711595901",
+    "dcterms:modified" : "2022-02-24T14:21:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=838,4588,1719,241"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M837.5686,4587.68592h859.64091v0h859.64091v120.36264v120.36264h-859.64091h-859.64091v-120.36264z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_037e24ee-ff64-4f2e-b62c-41b3192bc91b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"51.31322\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4eff536c-0f51-4b62-b6a8-18b6244b590a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%;\" align=\"justify\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\">Officer A. Dreyfus&rsquo; stripes and insignia covered the pavement. ",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%;\" align=\"justify\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\">Officer A. Dreyfus&rsquo; stripes and insignia covered the pavement. </span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "abasement",
+      "@type" : "oa:Tag",
+      "chars" : "abasement"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "cashiering",
+      "@type" : "oa:Tag",
+      "chars" : "cashiering"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Alfred Dreyfus",
+      "@type" : "oa:Tag",
+      "chars" : "Alfred Dreyfus"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T14:09:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645711769238",
+    "dcterms:modified" : "2022-02-24T14:21:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1022,3981,1439,536"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1232.91913,4059.27532c132.83055,-45.01786 320.20956,-78.54114 508.49661,-78.50109v0v0c188.28705,0.04005 352.31665,31.40054 508.49661,78.50109c156.17996,47.10055 216.88513,118.8727 210.62619,189.5184c-6.25894,70.6457 -79.48199,140.16494 -210.62619,189.5184c-131.1442,49.35346 -320.20956,78.54114 -508.49661,78.50109c-188.28705,-0.04005 -375.79578,-29.30784 -508.49661,-78.50109c-132.70083,-49.19325 -210.59376,-118.31198 -210.62619,-189.5184c-0.03243,-71.20642 77.79564,-144.50054 210.62619,-189.5184z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_92761b42-05ff-43f2-84d2-5cec8233357a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"51.31322\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4eff536c-0f51-4b62-b6a8-18b6244b590a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%;\" align=\"justify\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\">The <span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><a href=\"https://en.wikipedia.org/wiki/Belle_%C3%89poque\" target=\"_blank\" rel=\"noopener\">Belle <span style=\"font-family: Liberation Serif, serif;\">&Eacute;poque was the golden age of the press. Technical progress and <a href=\"https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070722/\" target=\"_blank\" rel=\"noopener\">the Law on the Freedom of the Press of 1881 accelerated the industrialization and democratization of the press. It was the main way of spreading information and doing intellectual debates in the French Third Republic. Le Petit Journal was one of the flagships of the cheap popular press.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%;\" align=\"justify\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\">The </span></span></span><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\"><a href=\"https://en.wikipedia.org/wiki/Belle_%C3%89poque\" target=\"_blank\" rel=\"noopener\">Belle <span style=\"font-family: Liberation Serif, serif;\">&Eacute;</span>poque</a></span></span></span> was the golden age of the press. Technical progress and <a href=\"https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070722/\" target=\"_blank\" rel=\"noopener\">the Law on the Freedom of the Press of 1881</a> accelerated the industrialization and democratization of the press. It was the main way of spreading information and doing intellectual debates in the French Third Republic. <em>Le Petit Journal </em>was one of the flagships of the cheap popular press.</span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "the golden age of press",
+      "@type" : "oa:Tag",
+      "chars" : "the golden age of press"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Belle Époque",
+      "@type" : "oa:Tag",
+      "chars" : "Belle Époque"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T13:54:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645710865780",
+    "dcterms:modified" : "2022-02-25T12:43:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=195,510,590,259"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M194.74047,509.56395h294.82318v0h294.82318v129.69941v129.69941h-294.82318h-294.82318v-129.69941z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_9dd62a5f-a056-4cd8-9f94-1688fbf8dbe5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"32.3611\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4eff536c-0f51-4b62-b6a8-18b6244b590a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\">The dome of H&ocirc;tel des Invalides.\n<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\">The <a href=\"https://en.wikipedia.org/wiki/Les_Invalides\" target=\"_blank\" rel=\"noopener\">H&ocirc;tel des Invalides is the symbol of power and the greatness of the Army, the French Nation and those who rule it. It was built during the reign of Louis XIV in order to give the wounded soldiers assistance.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\">The dome of H&ocirc;tel des Invalides.</span></span></span></p>\n<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%; text-decoration: none;\" align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\">The <a href=\"https://en.wikipedia.org/wiki/Les_Invalides\" target=\"_blank\" rel=\"noopener\">H&ocirc;tel des Invalides</a> is the symbol of power and the greatness of the Army, the French Nation and those who rule it. It was built during the reign of Louis XIV in order to give the wounded soldiers assistance.</span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Hôtel des Invalides",
+      "@type" : "oa:Tag",
+      "chars" : "Hôtel des Invalides"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T14:20:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645712418830",
+    "dcterms:modified" : "2022-02-24T18:26:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1135,944,700,1122"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1134.87109,943.59681h349.96013v0h349.96013v560.95928v560.95928h-349.96013h-349.96013v-560.95928z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_671f0c9c-8436-4145-b3e4-59485f490a72\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"34.1031\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4eff536c-0f51-4b62-b6a8-18b6244b590a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%;\" align=\"justify\"><a href=\"https://en.wikipedia.org/wiki/Le_Petit_Journal_(newspaper)\" target=\"_blank\" rel=\"noopener\">Le Petit Journal <span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\">was founded by <a href=\"https://en.wikipedia.org/wiki/Mo%C3%AFse_Polydore_Millaud\" target=\"_blank\" rel=\"noopener\">Mo&iuml;se Polydore Millaud in 1863. It defended a republican and conservative line. During the <a href=\"https://en.wikipedia.org/wiki/Dreyfus_affair\" target=\"_blank\" rel=\"noopener\">Affair, under the initiative of <a href=\"https://fr.wikipedia.org/wiki/Ernest_Judet\" target=\"_blank\" rel=\"noopener\">Ernest Judet, it sided with the \"anti-dreyfusards\". They defended the Army&rsquo;s position and France&rsquo;s greatness.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%;\" align=\"justify\"><a href=\"https://en.wikipedia.org/wiki/Le_Petit_Journal_(newspaper)\" target=\"_blank\" rel=\"noopener\"><em>Le Petit Journal</em></a> <span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\">was founded by <a href=\"https://en.wikipedia.org/wiki/Mo%C3%AFse_Polydore_Millaud\" target=\"_blank\" rel=\"noopener\">Mo&iuml;se Polydore Millaud</a> in 1863. It defended a republican and conservative line. During the <a href=\"https://en.wikipedia.org/wiki/Dreyfus_affair\" target=\"_blank\" rel=\"noopener\">Affair</a>, under the initiative of <a href=\"https://fr.wikipedia.org/wiki/Ernest_Judet\" target=\"_blank\" rel=\"noopener\">Ernest Judet</a>, it sided with the \"anti-dreyfusards\". They defended the Army&rsquo;s position and France&rsquo;s greatness.</span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Le Petit Journal",
+      "@type" : "oa:Tag",
+      "chars" : "Le Petit Journal"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "press",
+      "@type" : "oa:Tag",
+      "chars" : "press"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "anti-dreyfusard",
+      "@type" : "oa:Tag",
+      "chars" : "anti-dreyfusard"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T13:59:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645711193280",
+    "dcterms:modified" : "2022-02-25T12:42:35",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=289,79,2852,411"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M288.72225,79.47667h1425.97495v0h1425.97495v205.55845v205.55845h-1425.97495h-1425.97495v-205.55845z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.51765,0,0.51765],&quot;editable&quot;:true}\" id=\"rectangle_4b7fb48e-4f84-41ed-8266-7f1144ca51d3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#840084\" stroke-width=\"5.39352\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4eff536c-0f51-4b62-b6a8-18b6244b590a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%; text-decoration: none;\" align=\"justify\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\">The sword is broken in two on a soldier&rsquo;s lap. ",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p lang=\"en-GB\" style=\"margin-bottom: 0cm; font-style: normal; font-weight: normal; line-height: 100%; text-decoration: none;\" align=\"justify\"><span style=\"color: #000000;\"><span style=\"font-family: Liberation Serif, serif;\"><span style=\"font-size: medium;\">The sword is broken in two on a soldier&rsquo;s lap. </span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "cashiering",
+      "@type" : "oa:Tag",
+      "chars" : "cashiering"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "abasement",
+      "@type" : "oa:Tag",
+      "chars" : "abasement"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T14:12:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645711938851",
+    "dcterms:modified" : "2022-02-25T12:46:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1532,3002,1365,370"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1731.60402,3056.16138c126.00019,-31.05224 303.74388,-54.1758 482.34891,-54.14817v0v0c178.60503,0.02763 334.19997,21.65934 482.34891,54.14817c148.14894,32.48883 205.73255,81.99553 199.79546,130.72523c-5.93709,48.7297 -75.3949,96.6824 -199.79546,130.72523c-124.40056,34.04283 -303.74388,54.1758 -482.34891,54.14817c-178.60503,-0.02763 -356.47177,-20.21585 -482.34891,-54.14817c-125.87714,-33.93232 -199.7647,-81.60876 -199.79546,-130.72523c-0.03076,-49.11647 73.79527,-99.67299 199.79546,-130.72523z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_a5fa311e-e64a-4c62-b107-8ee8ba54059e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"32.3611\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4eff536c-0f51-4b62-b6a8-18b6244b590a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"ql-align-justify\"><a style=\"color: #000000;\" href=\"https://fr.wikipedia.org/wiki/Alfred_Dreyfus\" target=\"_blank\" rel=\"noopener\">A<a style=\"color: #000000;\" href=\"https://en.wikipedia.org/wiki/Alfred_Dreyfus\" target=\"_blank\" rel=\"noopener\">lfred Dreyfus<span style=\"color: #000000;\"> (1859-1935)\n<p class=\"ql-align-justify\">He was a French artillery Officer of Alsatian ancestry and Jewish faith. He was arrested on 13<sup style=\"color: #000000;\">th<span style=\"color: #000000;\"> October 1894 and sentenced to life imprisonment for communicating military secrets to the German Empire. The \"dreyfusards\" (some political figures, writers, Dreyfus&rsquo; family) kept on claiming his innocence and asking a new trial until Dreyfus&rsquo; exculpation in 1906. ",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"ql-align-justify\"><a style=\"color: #000000;\" href=\"https://fr.wikipedia.org/wiki/Alfred_Dreyfus\" target=\"_blank\" rel=\"noopener\">A</a><a style=\"color: #000000;\" href=\"https://en.wikipedia.org/wiki/Alfred_Dreyfus\" target=\"_blank\" rel=\"noopener\">lfred Dreyfus</a><span style=\"color: #000000;\"> (1859-1935)</span></p>\n<p class=\"ql-align-justify\">He was a French artillery Officer of Alsatian ancestry and Jewish faith. He was arrested on 13<sup style=\"color: #000000;\">th</sup><span style=\"color: #000000;\"> October 1894 and sentenced to life imprisonment for communicating military secrets to the German Empire. The \"dreyfusards\" (some political figures, writers, Dreyfus&rsquo; family) kept on claiming his innocence and asking a new trial until Dreyfus&rsquo; exculpation in 1906. </span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Alfred Dreyfus",
+      "@type" : "oa:Tag",
+      "chars" : "Alfred Dreyfus"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "biography",
+      "@type" : "oa:Tag",
+      "chars" : "biography"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92690835",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-24T14:29:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645712978498",
+    "dcterms:modified" : "2022-02-25T14:14:37",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=891,2055,580,2352"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M890.648,2055.14145h289.92436v0h289.92436v1175.95907v1175.95907h-289.92436h-289.92436v-1175.95907z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_4740a8d2-ee04-494e-b0ac-97b6df31f22b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"14.56974\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4eff536c-0f51-4b62-b6a8-18b6244b590a"
+    } ]
+  } ],
+  "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/annotations/4ed29feaddb489220328fccba7e80004.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
