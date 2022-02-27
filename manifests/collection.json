@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest2.json",
-    "label" : "The Alfred Dreyfus Affair and the golden age of the press."
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://Lienceard.github.io/Alfred-Dreyfus-Affair-English-Assignment-IIIF/manifests/manifest3.json",
     "label" : "The Alfred Dreyfus Affair and the golden age of the press."
   } ]
